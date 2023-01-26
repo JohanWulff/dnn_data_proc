@@ -1,0 +1,6 @@
+<bin name="RunSkim" file="RunSkim.cc">
+    <use name="dnn_data_proc/src" />
+    <use name="root" />
+    <use name="rootmath" />
+    <use name="rootcore"/>
+</bin>
